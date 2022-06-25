@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+} 
+.menu{
+    background-color: rgb(13, 14, 14);
+    height: 60px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;   
+}
+
+.name {
+    padding: 26px;
+}
+
+.links ul{
+    display: flex;
+    list-style: none;    
+}
+a {
+    text-decoration: none;
+}
+
+.links ul li {
+    padding: 10px;
+}
+
